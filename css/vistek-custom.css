@@ -1,0 +1,120 @@
+body,
+#wrapper,
+.css3-spinner,
+#header.dark.sticky-header.transparent-header #header-wrap:not(.not-dark) {
+    /* background-color: #181818; */
+}
+
+.custom-black-text {
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: purple;
+}
+.title-shadow {
+    text-shadow: 0px 0px 5px #000000;
+}
+.owl-stage {
+    display: -webkit-box !important;
+    display: -moz-box !important;
+    display: -ms-box !important;
+    display: box !important;
+}
+.item {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.item-team1,
+.item-team2 {
+    min-width: 50px;
+    font-size: 12px;
+}
+.item-question {
+    font-size: 30px;
+}
+.item-team1 img,
+.item-team2 img {
+    max-width: 40px;
+}
+.item-score1,
+.item-score2 {
+    width: 70px;
+    font-size: 24px;
+}
+.item-vs {
+    flex-grow: 1;
+}
+.flex-center {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.flex-start {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+.flex-space-between {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.flex-end {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+/*
+#footer {
+    background: rgba(18, 18, 18, 0.5) !important;
+}
+*/
+
+/* .footer-ornament {
+    background: url("../images/ornaments/footer-ornament.png") left center no-repeat;
+    background-size: contain;
+}
+.footer-bottom {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+	align-items: center;
+}
+.footer-copyright {
+    order: 1;
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+} */
+.footer-socmed {
+    order: 2;
+}
+@media screen and (max-width: 991px) {
+    .footer-ornament {
+        background: none;
+    }
+}
+@media screen and (max-width: 768px) {
+    .footer-ornament {
+        background: none;
+    }
+    .footer-bottom {
+        display: flex;
+        flex-direction: column;
+    }
+    /* .footer-copyright {
+        order: 2;
+        flex-direction: column;
+    } */
+    /* .footer-socmed {
+        order: 1;
+    } */
+}
+.flex-center * {
+    flex-shrink: 0;
+}
+
+.white-txt{
+    color:white;
+}

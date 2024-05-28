@@ -1,0 +1,658 @@
+.image-mini-banner {
+    height: 200px !important;
+}
+
+@media screen and (min-width: 993px) {
+    .bg-ornaments-video {
+        height: 210px;
+        position: absolute;
+        top: -45px;
+        left: 0px;
+    }
+    .bg-ornament-schedules {
+        height: 350px;
+        position: absolute;
+        top: -90px;
+        right: -10px;
+    }
+    .bg-ornaments-standings {
+        height: 210px;
+        position: absolute;
+        top: -20px;
+        right: 0px;
+		max-width: 300px;
+		height: auto;
+    }
+    .bg-ornaments-teams-1 {
+        height: 300px;
+        position: absolute;
+        top: -30px;
+        left: 110px;
+    }
+    .bg-ornaments-teams-2 {
+        height: 180px;
+        position: absolute;
+        top: 35px;
+        right: 140px;
+        transform: rotate(20deg);
+    }
+    .bg-ornaments-statistic-1 {
+        height: 200px;
+        position: absolute;
+        top: 42px;
+        left: 130px;
+    }
+
+    .bg-ornaments-statistic-2 {
+        height: 210px;
+        position: absolute;
+        top: 41px;
+        right: 93px;
+    }
+    .bg-ornaments-footer {
+        height: 335px;
+        position: absolute;
+        top: -3px;
+        left: -140px;
+        opacity: 0.4;
+    }
+    .logo-footer-1 {
+        height: 100px;
+        position: absolute;
+        left: 500px;
+        top: 15px;
+    }
+    .logo-footer-2 {
+        height: 70px;
+        position: absolute;
+        left: 750px;
+        top: 50px;
+    }
+    .text-footer-1 {
+        font-size: 16px;
+        position: relative;
+        left: 510px;
+        bottom: 30px;
+    }
+    .text-footer-2 {
+        font-size: 16px;
+        position: relative;
+        left: 522px;
+        bottom: -90px;
+    }
+    .text-footer-3 {
+        font-size: 16px;
+        position: relative;
+        left: 775px;
+        bottom: 120px;
+    }
+    .footer-section {
+        position: absolute;
+        background-color: black;
+        width: 100%;
+        text-align: center;
+    }
+    .socmed-footer {
+        position: absolute;
+        bottom: -200px;
+        right: -70px;
+    }
+}
+
+@media screen and (min-width: 1373px) {
+    .bg-ornaments-video {
+        height: 250px;
+        position: absolute;
+        top: -87px;
+        left: -10px;
+    }
+    .bg-ornament-schedules {
+        height: 380px;
+        position: absolute;
+        top: -90px;
+        right: -10px;
+    }
+    .bg-ornaments-standings {
+        height: 250px;
+        position: absolute;
+        top: -90px;
+        right: 0px;
+    }
+    .bg-ornaments-teams-1 {
+        height: 300px;
+        position: absolute;
+        top: -30px;
+        left: 210px;
+    }
+    .bg-ornaments-teams-2 {
+        height: 180px;
+        position: absolute;
+        top: 35px;
+        right: 220px;
+        transform: rotate(20deg);
+    }
+    .bg-ornaments-statistic-1 {
+        height: 200px;
+        position: absolute;
+        top: 42px;
+        left: 300px;
+    }
+
+    .bg-ornaments-statistic-2 {
+        height: 210px;
+        position: absolute;
+        top: 41px;
+        right: 263px;
+    }
+    .bg-ornaments-footer {
+        height: 340px;
+        position: absolute;
+        top: -3px;
+        left: -220px;
+        opacity: 0.4;
+    }
+    .logo-footer-1 {
+        height: 120px;
+        position: absolute;
+        left: 420px;
+        top: 15px;
+    }
+    .logo-footer-2 {
+        height: 90px;
+        position: absolute;
+        left: 720px;
+        top: 50px;
+    }
+    .text-footer-1 {
+        position: relative;
+        left: 440px;
+        bottom: 30px;
+    }
+    .text-footer-2 {
+        position: relative;
+        left: 453px;
+        bottom: -100px;
+    }
+    .text-footer-3 {
+        position: relative;
+        left: 765px;
+        bottom: 120px;
+    }
+    .footer-section {
+        position: absolute;
+        background-color: black;
+        width: 100%;
+        text-align: center;
+    }
+    .socmed-footer {
+        position: absolute;
+        bottom: -200px;
+        right: -160px;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .bg-ornaments-video {
+		display: none;
+    }
+    .bg-ornament-schedules {
+		display: none;
+    }
+    .bg-ornaments-standings {
+		display: none;
+    }
+    .bg-ornaments-teams-1 {
+		display: none;
+    }
+    .bg-ornaments-teams-2 {
+		display: none;
+    }
+    .bg-ornaments-statistic-1 {
+		display: none;
+    }
+    .bg-ornaments-statistic-2 {
+		display: none;
+    }
+    .bg-ornaments-footer {
+		display: none;
+    }
+    .logo-footer-1 {
+		display: none;
+    }
+    .logo-footer-2 {
+		display: none;
+    }
+    .text-footer-1 {
+		display: none;
+    }
+    .text-footer-2 {
+		display: none;
+    }
+    .text-footer-3 {
+		display: none;
+    }
+    .footer-section {
+		display: none;
+    }
+    .socmed-footer {
+		display: none;
+    }
+}
+
+/*
+@media screen and (max-width: 768px) {
+    .bg-ornaments-video {
+        height: 160px;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+    }
+    .bg-ornament-schedules {
+        height: 220px;
+        position: absolute;
+        top: -40px;
+        right: -35px;
+    }
+    .bg-ornaments-standings {
+        height: 140px;
+        position: absolute;
+        top: 15px;
+        right: 0px;
+    }
+    .bg-ornaments-teams-1 {
+        height: 210px;
+        position: absolute;
+        top: 30px;
+        left: 50px;
+    }
+    .bg-ornaments-teams-2 {
+        height: 130px;
+        position: absolute;
+        top: 70px;
+        right: 70px;
+        transform: rotate(20deg);
+    }
+    .bg-ornaments-statistic-1 {
+        height: 100px;
+        position: absolute;
+        top: 138px;
+        left: 150px;
+    }
+
+    .bg-ornaments-statistic-2 {
+        height: 110px;
+        position: absolute;
+        top: 127px;
+        right: 107px;
+    }
+    .bg-ornaments-footer {
+        height: 340px;
+        position: absolute;
+        top: -3px;
+        left: -280px;
+        opacity: 0.4;
+    }
+    .logo-footer-1 {
+        height: 120px;
+        position: absolute;
+        left: 420px;
+        top: 15px;
+    }
+    .logo-footer-2 {
+        height: 90px;
+        position: absolute;
+        left: 700px;
+        top: 50px;
+    }
+    .text-footer-1 {
+        position: relative;
+        left: 440px;
+        bottom: 30px;
+    }
+    .text-footer-2 {
+        position: relative;
+        left: 453px;
+        bottom: -100px;
+    }
+    .text-footer-3 {
+        position: relative;
+        left: 735px;
+        bottom: 120px;
+    }
+    .footer-section {
+        position: absolute;
+        background-color: black;
+        width: 100%;
+        text-align: center;
+    }
+    .socmed-footer {
+        position: absolute;
+        bottom: -200px;
+        right: -160px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .bg-ornaments-video {
+        height: 160px;
+        position: absolute;
+        top: -3px;
+        left: 0px;
+    }
+    .bg-ornament-schedules {
+        height: 220px;
+        position: absolute;
+        top: -40px;
+        right: -35px;
+    }
+    .bg-ornaments-standings {
+        height: 130px;
+        position: absolute;
+        top: 25px;
+        right: 0px;
+    }
+    .bg-ornaments-teams-1 {
+        height: 180px;
+        position: absolute;
+        top: 60px;
+        left: -5px;
+    }
+    .bg-ornaments-teams-2 {
+        height: 120px;
+        position: absolute;
+        top: 90px;
+        right: 10px;
+        transform: rotate(20deg);
+    }
+    .bg-ornaments-statistic-1 {
+        height: 100px;
+        position: absolute;
+        top: 138px;
+        left: 60px;
+    }
+
+    .bg-ornaments-statistic-2 {
+        height: 110px;
+        position: absolute;
+        top: 127px;
+        right: 23px;
+    }
+    .bg-ornaments-footer {
+        height: 340px;
+        position: absolute;
+        top: -3px;
+        left: -280px;
+        opacity: 0.4;
+    }
+    .logo-footer-1 {
+        height: 120px;
+        position: absolute;
+        left: 420px;
+        top: 15px;
+    }
+    .logo-footer-2 {
+        height: 90px;
+        position: absolute;
+        left: 700px;
+        top: 50px;
+    }
+    .text-footer-1 {
+        position: relative;
+        left: 440px;
+        bottom: 30px;
+    }
+    .text-footer-2 {
+        position: relative;
+        left: 453px;
+        bottom: -100px;
+    }
+    .text-footer-3 {
+        position: relative;
+        left: 735px;
+        bottom: 120px;
+    }
+    .footer-section {
+        position: absolute;
+        background-color: black;
+        width: 100%;
+        text-align: center;
+    }
+    .socmed-footer {
+        position: absolute;
+        bottom: -200px;
+        right: -160px;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .bg-ornaments-video {
+        height: 150px;
+        position: absolute;
+        top: 7px;
+        left: 0px;
+    }
+    .bg-ornament-schedules {
+        height: 220px;
+        position: absolute;
+        top: -40px;
+        right: -35px;
+    }
+    .bg-ornaments-standings {
+        height: 120px;
+        position: absolute;
+        top: 35px;
+        right: 0px;
+    }
+    .bg-ornaments-teams-1 {
+        height: 200px;
+        position: absolute;
+        top: 40px;
+        left: -20px;
+    }
+    .bg-ornaments-teams-2 {
+        height: 130px;
+        position: absolute;
+        top: 70px;
+        right: -15px;
+        transform: rotate(20deg);
+    }
+    .bg-ornaments-statistic-1 {
+        height: 90px;
+        position: absolute;
+        top: 148px;
+        left: 45px;
+    }
+
+    .bg-ornaments-statistic-2 {
+        height: 100px;
+        position: absolute;
+        top: 135px;
+        right: 6px;
+    }
+    .bg-ornaments-footer {
+        height: 340px;
+        position: absolute;
+        top: -3px;
+        left: -280px;
+        opacity: 0.4;
+    }
+    .logo-footer-1 {
+        height: 120px;
+        position: absolute;
+        left: 420px;
+        top: 15px;
+    }
+    .logo-footer-2 {
+        height: 90px;
+        position: absolute;
+        left: 700px;
+        top: 50px;
+    }
+    .text-footer-1 {
+        position: relative;
+        left: 440px;
+        bottom: 30px;
+    }
+    .text-footer-2 {
+        position: relative;
+        left: 453px;
+        bottom: -100px;
+    }
+    .text-footer-3 {
+        position: relative;
+        left: 735px;
+        bottom: 120px;
+    }
+    .footer-section {
+        position: absolute;
+        background-color: black;
+        width: 100%;
+        text-align: center;
+    }
+    .socmed-footer {
+        position: absolute;
+        bottom: -200px;
+        right: -160px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .bg-ornaments-video {
+        height: 140px;
+        position: absolute;
+        top: 18px;
+        left: 0px;
+    }
+    .bg-ornament-schedules {
+        height: 200px;
+        position: absolute;
+        top: -30px;
+        right: -35px;
+    }
+    .bg-ornaments-standings {
+        height: 110px;
+        position: absolute;
+        top: 45px;
+        right: 0px;
+    }
+    .bg-ornaments-teams-1 {
+        height: 180px;
+        position: absolute;
+        top: 40px;
+        left: -70px;
+    }
+    .bg-ornaments-teams-2 {
+        height: 110px;
+        position: absolute;
+        top: 70px;
+        right: -35px;
+        transform: rotate(20deg);
+    }
+    .bg-ornaments-statistic-1 {
+        height: 80px;
+        position: absolute;
+        top: 158px;
+        left: 45px;
+    }
+
+    .bg-ornaments-statistic-2 {
+        height: 90px;
+        position: absolute;
+        top: 145px;
+        right: 6px;
+    }
+    .bg-ornaments-footer {
+        height: 140px;
+        position: absolute;
+        top: 1px;
+        left: 45px;
+        opacity: 0.4;
+    }
+    .logo-footer-1 {
+        height: 50px;
+        position: absolute;
+        left: 40px;
+        top: 120px;
+    }
+    .logo-footer-2 {
+        height: 35px;
+        position: absolute;
+        left: 180px;
+        top: 140px;
+    }
+    .text-footer-1 {
+        font-size: 10px;
+        position: relative;
+        left: 40px;
+        bottom: -90px;
+    }
+    .text-footer-2 {
+        font-size: 10px;
+        position: relative;
+        left: 45px;
+        bottom: -140px;
+    }
+    .text-footer-3 {
+        font-size: 10px;
+        position: relative;
+        left: 185px;
+        bottom: -15px;
+    }
+    .footer-section {
+        font-size: 11px;
+        position: absolute;
+        background-color: black;
+        width: 100%;
+        text-align: center;
+        padding-bottom: 5px;
+        padding-top: 5px;
+    }
+    .socmed-footer {
+        position: absolute;
+        bottom: -70px;
+        right: 85px;
+    }
+    .social-icon.si-mini {
+        width: 13px;
+        height: 13px;
+        font-size: 8px;
+        line-height: 12px !important;
+    }
+    .line.line-sm {
+        margin: 10px 0;
+    }
+}
+*/
+
+.section-box {
+    width: 100%;
+    padding: 40px;
+    border: 4px solid white;
+    background-color: #232323;
+}
+
+.background-img {
+    background: url("images/background-test.jpg");
+    background-size: cover;
+}
+
+.bg-socmed {
+    background-color: #aaaaaa;
+    position: relative;
+    height: 38px;
+    left: 0px;
+    padding-top: 4px;
+    padding-left: 73px;
+    padding-right: 70px;
+}
+
+.social-icon {
+    width: 30px;
+    height: 30px;
+    font-size: 17px;
+    line-height: 27px !important;
+}
+
+.mb40 {
+    margin-bottom: 70px;
+}
