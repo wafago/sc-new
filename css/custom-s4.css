@@ -46,14 +46,14 @@ ul.tab-nav li.ui-tabs-tab a {
     border-radius: 0;
     text-transform: uppercase;
     /* background-color: white !important; */
-    background-color: #006260;
+    background-color: #ffffff;
     color: #ffffff;
     border-radius: 0;
 }
 ul.tab-nav li.ui-tabs-tab.ui-state-active a {
     /* background-color: rgb(162, 239, 12) !important; */
     background-color: #2EFFFC;
-    color: #006260;
+    color: #fff;
 }
 ul.tab-nav li.ui-tabs-tab.ui-state-active:first-child a {
     /* width: 180px; */

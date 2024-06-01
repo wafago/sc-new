@@ -13,8 +13,8 @@
     <!-- GENERIC META -->
     <title>SISFO CUP 2024 --</title>
     <meta name="description"
-        content="Mobile Legends: Bang Bang Development League (MDL) Indonesia merupakan turnamen MLBB resmi dari Moonton yang merupakan event esports profesional MLBB tingkat 2 di Indonesia" />
-    <meta name="keywords" content="Mobile Legends: Bang Bang Development League Indonesia, MLBB, MDL, MDL ID" />
+        content="SISFO CUP 2024 merupakan Event tahunan resmi dari UKM-O Maco Fakultas Ilmu Komputer yang merupakan event futsal & esports tingkat nasional" />
+    <meta name="keywords" content="SISFO CUP, SISFO, FUTSAL SISFO, SISFO ESPORT" />
     <meta name="author" content="Vistek" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -24,18 +24,18 @@
     <link rel="icon" href="uploads/assets/logo.png" type="image/x-icon">
 
     <!-- FACEBOOK META -->
-    <meta property="og:title" content="Mobile Legends: Bang Bang Development League Indonesia" />
+    <meta property="og:title" content="SISFO CUP 2024" />
     <meta property="og:description"
-        content="Mobile Legends: Bang Bang Development League (MDL) Indonesia merupakan turnamen MLBB resmi dari Moonton yang merupakan event esports profesional MLBB tingkat 2 di Indonesia" />
-    <meta property="og:image" content="https://id-mdl.com/uploads/SEASON-7/MDL-S7.png" />
-    <meta property="og:url" content="https://id-mdl.com" />
+        content="SISFO CUP 2024 merupakan Event tahunan resmi dari UKM-O Maco Fakultas Ilmu Komputer yang merupakan event futsal & esports tingkat nasional" />
+    <meta property="og:image" content="uploads/assets/logo.png" />
+    <meta property="og:url" content="https://mohammadalyalwafa.site" />
     <meta property="og:site_name" content="Mobile Legends: Bang Bang Development League Indonesia" />
 
     <!-- TWITTER META -->
-    <meta name="twitter:image" content="https://id-mdl.com/uploads/SEASON-7/MDL-S7.png" />
-    <meta name="twitter:title" content="Mobile Legends: Bang Bang Development League Indonesia" />
+    <meta name="twitter:image" content="uploads/assets/logo.png" />
+    <meta name="twitter:title" content="SISFO CUP 2024" />
     <meta name="twitter:description"
-        content="Mobile Legends: Bang Bang Development League (MDL) Indonesia merupakan turnamen MLBB resmi dari Moonton yang merupakan event esports profesional MLBB tingkat 2 di Indonesia" />
+        content="SISFO CUP 2024 merupakan Event tahunan resmi dari UKM-O Maco Fakultas Ilmu Komputer yang merupakan event futsal & esports tingkat nasional" />
     <meta name="twitter:card" content="summary_large_image" />
 
 
@@ -80,7 +80,7 @@
 
     <!-- Document Title
 ============================================= -->
-    <link rel="shortcut icon" href="https://id-mdl.com/favicon.ico">
+    <link rel="shortcut icon" href="uploads/assets/logo.png">
 
     <link href="css/custom2.css?1686297416" rel="stylesheet">
     <!-- Footer
@@ -149,7 +149,7 @@
     <style>
         .bg-container {
             position: absolute;
-            background-image: url(" https://id-mdl.com/images/ornaments/s4/Standings BG.png ");
+            background-image: url("  ");
             background-size: 100% 100%;
             z-index: -1;
             width: 110%;
@@ -298,7 +298,7 @@
         }
 
         .content-wrap.about-section {
-            background-image: url("https://id-mdl.com/images/backgrounds/About BG - Mobile.png");
+            background-image: url("");
             background-size: 100% 100%;
             margin-bottom: 50px;
         }
@@ -374,7 +374,7 @@
 
 
     <meta name="description"
-        content="Mobile Legends: Bang Bang Development League adalah tournament resmi dari Moonton yang merupakan acara esports profesional MLBB tingkat 2 di Indonesia. MDL ini adalah tempat untuk berkembang dan menghasilkan para talent dan pemain baru." />
+        content="SISFO CUP 2024 merupakan Event tahunan resmi dari UKM-O Maco Fakultas Ilmu Komputer yang merupakan event futsal & esports tingkat nasional" />
 
 
     <style>
@@ -383,10 +383,10 @@
             position: fixed;
             bottom: 0;
             width: 100%;
-            background-color: #000F1E;
+            background-color: #F5B100;
             opacity: 1;
             z-index: 12;
-            border-top: 5px solid #0B5756;
+            border-top: 5px solid #F5B100;
         }
 
         .grid-container-navbar {
@@ -480,7 +480,7 @@
         }
 
         #footer {
-            background-image: url("https://id-mdl.com/images/ornaments/s7/footer.png");
+            background-image: url("images/ornaments/s7/footer.png");
             background-size: cover;
             background-position: center;
         }
@@ -579,11 +579,11 @@
         <!-- Main navbar container mobile-->
         <div class="sticky">
             <div class="grid-container-navbar">
-                <a href="https://id-mdl.com" class="menu-item">
+                <a href="https://mohammadalyalwafa.site" class="menu-item">
                     <div class="grid-item-navbar active">
                         <!-- Icon Image -->
                         <div>
-                            <img class="icon" src="https://id-mdl.com/uploads/menu/home-01.png">
+                            <img class="icon" src="uploads/menu/home-01.png">
 
                             <div>
                                 Home
@@ -595,21 +595,21 @@
                     <div class="grid-item-navbar">
                         <!-- Icon Image -->
                         <div>
-                            <img class="icon" src="https://id-mdl.com/uploads/menu/schedule-01.png">
+                            <img class="icon" src="uploads/menu/schedule-01.png">
                             <div>
                                 Schedule
                             </div>
                         </div>
                     </div>
                 </a>
-                <a href="https://id-mdl.com/teams" class="menu-item">
+                <a href="https://mohammadalyalwafa.site"" class=" menu-item">
                     <div class="grid-item-navbar">
                         <!-- Icon Image -->
                         <div>
 
 
 
-                            <img class="icon" src="https://id-mdl.com/uploads/menu/team-01.png">
+                            <img class="icon" src="uploads/menu/team-01.png">
 
                             <div>
                                 Teams
@@ -618,11 +618,11 @@
                     </div>
                 </a>
 
-                <a href="https://id-mdl.com/micc" class="menu-item">
+                <a href="https://mohammadalyalwafa.site"" class=" menu-item">
                     <div class="grid-item-navbar">
                         <!-- Icon Image -->
                         <div>
-                            <img class="icon-micc" src="https://id-mdl.com/images/micc/logo-micc.png" style="
+                            <img class="icon-micc" src="uploads/assets/logo.png" style="
                         width: auto;
                         height: 33px;
                         aspect-ratio: 1;
@@ -636,7 +636,7 @@
                 <a href="#" class="menu-item" onclick="menuPop(); return false;">
                     <div class="grid-item-navbar">
                         <!-- Icon Image -->
-                        <img class="icon" src="https://id-mdl.com/uploads/menu/more-01.png">
+                        <img class="icon" src="uploads/menu/more-01.png">
                         <div>
                             About
                         </div>
@@ -730,20 +730,20 @@
 
 
                         <div>
-                            <a href="https://www.instagram.com/mdl.indonesia" target="_blank">
-                                <img src="https://id-mdl.com/images/ornaments/s4/instagram.png" alt="instagram">
+                            <a href="https://www.instagram.com/sisfocup_" target="_blank">
+                                <img src="images/ornaments/s4/instagram.png" alt="instagram">
                             </a>
                         </div>
 
                         <div>
-                            <a href="https://www.youtube.com/@mdlindonesia6344" target="_blank">
-                                <img src="https://id-mdl.com/images/ornaments/s4/youtube.png" alt="youtube">
+                            <a href="https://www.instagram.com/sisfocup_" target="_blank">
+                                <img src="images/ornaments/s4/youtube.png" alt="youtube">
                             </a>
                         </div>
 
                         <div>
                             <a href="https://www.facebook.com/MobileLegendsGameIndonesia" target="_blank">
-                                <img src="https://id-mdl.com/images/ornaments/s4/facebook.png" alt="facebook">
+                                <img src="images/ornaments/s4/facebook.png" alt="facebook">
                             </a>
                         </div>
 
