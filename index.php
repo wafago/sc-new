@@ -750,7 +750,7 @@
                     </div>
 
                     <div class="copyright">
-                    &copy 2024 UKM-O Maco.
+                    &copy SISFO CUP 2024 UKM-O Maco.
                     </div>
                 </div>
 
