@@ -480,7 +480,7 @@
         }
 
         #footer {
-            background-image: url("images/ornaments/s7/footer.png");
+            background-image: url ("images/ornaments/s7/footer.png");
             background-size: cover;
             background-position: center;
         }
