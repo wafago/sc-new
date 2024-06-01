@@ -742,7 +742,7 @@
                         </div>
 
                         <div>
-                            <a href="https://www.facebook.com/MobileLegendsGameIndonesia" target="_blank">
+                            <a href="https://www.instagram.com/sisfocup" target="_blank">
                                 <img src="images/ornaments/s4/facebook.png" alt="facebook">
                             </a>
                         </div>
@@ -750,7 +750,7 @@
                     </div>
 
                     <div class="copyright">
-                        Copyright &copy 2024 Moonton. All Right Reserved
+                        Copyright &copy 2024 UKM-O Maco. All Right Reserved
                     </div>
                 </div>
 
