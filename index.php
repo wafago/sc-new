@@ -690,18 +690,35 @@
 
                 </div>
             </div>
-            <div class="content-wrap pt-5 pb-5" style="
+            <div class="content-wrap mx-auto pt-5 pb-5" style="
         z-index: 1;
         background-image: url('uploads/background/bg-light.png');
         background-position: center;
         background-size: cover;
     ">
                 <div class="col-lg-10 mx-auto pt-4 mb-5">
-                    <a href="https://forms.gle/GFs2w7Cy6kJ6Lwgm7" target="_blank" class="btn btn-primary w-100">
+                    <a href="" target="_blank" class="btn btn-primary w-100">
                         Daftar Futsal
                     </a>
-                    <a href="https://forms.gle/GFs2w7Cy6kJ6Lwgm7" target="_blank" class="btn btn-primary w-100">
-                        Daftar eSPORT
+                </div>
+                <div class="col-lg-10 mx-auto pt- mb-5">
+                    <a href="" target="_blank" class="btn btn-primary w-100">
+                        Daftar E-SPORT
+                    </a>
+                </div>
+                <div class="col-lg-10 mx-auto pt- mb-5">
+                    <a href="" target="_blank" class="btn btn-primary w-100">
+                        Booklet (Buku Panduan)
+                    </a>
+                </div>
+                <div class="col-lg-10 mx-auto pt- mb-5">
+                    <a href="" target="_blank" class="btn btn-primary w-100">
+                        Poster
+                    </a>
+                </div>
+                <div class="col-lg-10 mx-auto pt- mb-5">
+                    <a href="" target="_blank" class="btn btn-primary w-100">
+                        Partnership
                     </a>
                 </div>
                 <div class="container-fluid clearfix section-box2">
@@ -750,7 +767,7 @@
                     </div>
 
                     <div class="copyright">
-                    &copy SISFO CUP 2024 UKM-O Maco.
+                        &copy SISFO CUP 2024 UKM-O Maco.
                     </div>
                 </div>
 
@@ -825,6 +842,26 @@
             }
         }
     </script>
+    <script>
+        document.querySelectorAll('.btn-primary').forEach(button => {
+            button.addEventListener('mouseenter', (e) => {
+                let rect = e.target.getBoundingClientRect();
+                let ripple = document.createElement('span');
+                let diameter = Math.max(rect.width, rect.height);
+                ripple.style.width = ripple.style.height = `${diameter}px`;
+                ripple.style.left = `${e.clientX - rect.left - diameter / 2}px`;
+                ripple.style.top = `${e.clientY - rect.top - diameter / 2}px`;
+                ripple.classList.add('ripple');
+                let rippleContainer = e.target.querySelector('.ripple');
+                if (rippleContainer) {
+                    rippleContainer.remove();
+                }
+                e.target.appendChild(ripple);
+            });
+        });
+
+    </script>
+
 </body>
 
 </html>
