@@ -750,7 +750,7 @@
                     </div>
 
                     <div class="copyright">
-                        Copyright &copy 2024 UKM-O Maco. All Right Reserved
+                    &copy 2024 UKM-O Maco.
                     </div>
                 </div>
 
