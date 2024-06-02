@@ -13,27 +13,28 @@
         }
 
         .group-title {
-            font-size: 1.2rem;
+            font-size: 1rem;
             font-weight: 800;
             text-align: center;
             margin-bottom: 5px;
             color: #ffffff;
-            background-color: #F5B100 ;
+            background: linear-gradient(90deg, #00254A 0%, #864AF9 48%, #F5B100 100%) ;
         }
 
         .table-container {
             width: 100%;
             color: #00254A;
             border-color: #00254A;
+            
         }
 
         .table-container td {
-            background-color: #ffffff;
+            background-color: transparent;
             /* Warna default untuk sel */
         }
 
         .table-container tbody tr:nth-child(even) td {
-            background-color: #f2f2f2;
+            background-color: transparent;
             /* Warna untuk sel pada baris genap */
         }
     </style>

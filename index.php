@@ -383,10 +383,10 @@
             position: fixed;
             bottom: 0;
             width: 100%;
-            background-color: #F5B100;
+            background: linear-gradient(90deg, #00254A 0%, #864AF9 48%, #F5B100 100%) ;
             opacity: 1;
             z-index: 12;
-            border-top: 5px solid #F5B100;
+            
         }
 
         .grid-container-navbar {

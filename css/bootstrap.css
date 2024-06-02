@@ -2899,7 +2899,7 @@ fieldset:disabled a.btn {
 
 .btn-primary {
 	color: #fff;
-	background-color: #F5B100;
+	background: linear-gradient(90deg, #00254A 0%, #864AF9 48%, #F5B100 100%) ;
 	border-color: #F5B100;
 }
 
